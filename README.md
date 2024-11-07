@@ -71,11 +71,11 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahils1903&theme=radical" alt="GitHub Streak"  height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahils1903&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"  height="195px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahils1903&theme=radical" alt="GitHub Streak"  height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahils1903&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"  height="170px"/>
 </p>
 
 ### 📈 LeetCode Stats:
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/SahilShah1903?theme=radical" alt="LeetCode Stats" width="49%" height="195px"/>
+  <img src="https://leetcard.jacoblin.cool/SahilShah1903?theme=radical" alt="LeetCode Stats" width="49%" height="170px"/>
 </p>
