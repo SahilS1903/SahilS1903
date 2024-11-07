@@ -77,5 +77,5 @@
 
 ### 📈 LeetCode Stats:
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/SahilShah1903?theme=radical" alt="LeetCode Stats" width="49%" height="170px"/>
+  <img src="https://leetcard.jacoblin.cool/SahilShah1903?theme=radical" alt="LeetCode Stats" height="170px"/>
 </p>
