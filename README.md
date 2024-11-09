@@ -71,7 +71,7 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahils1903&theme=radical" alt="GitHub Streak"  height="170px"/>
+ <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=sahils1903&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Streak" height="170px"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahils1903&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"  height="170px"/>
 </p>
 
